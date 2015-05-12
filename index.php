@@ -1,7 +1,7 @@
 <?php
 
 function MyName(){
-   echo 'Larry';
+   echo 'Larry D Gardner';
 }
 
 echo 'My name is ';
